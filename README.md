@@ -1,1 +1,2 @@
-My personal website built using React, NextJS, and TailwindCSS -  written with TypeScript
+# Aryan's Personal Website
+Built using React, NextJS, TailwindCSS, and 🫶🏼
